@@ -8,6 +8,7 @@ models = {
 
 #sus
 
+#diuble sis
 sum = 0
 while True:
 

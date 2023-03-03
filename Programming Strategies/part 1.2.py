@@ -6,6 +6,8 @@ models = {
     'windows tablet': 51.49,
 }
 
+#sus
+
 sum = 0
 while True:
 
